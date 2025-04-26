@@ -1,0 +1,21 @@
+﻿title: Player
+tags:
+---
+Player:Hello, How are you? #line:0c70209 
+    ->im good, thanks #line:07990fa 
+        <<jump good>>
+    ->had a rough day #line:0a7ff03 
+        <<jump bad>>
+===
+
+title: good
+position: 47,161
+---
+Player:Thats good to hear! #line:0bcb0b4 
+===
+
+title: bad
+position: 272,16
+---
+Player:I'm sorry to hear that. #line:0c2a3c4 
+===
